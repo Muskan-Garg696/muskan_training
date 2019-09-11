@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\WebApplicationProject1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\551685730.index
+\RegitrationTest\src
+D:\WebApplicationProject1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2927507188.index
+\BootStrap\src

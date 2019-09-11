@@ -1,0 +1,8 @@
+
+Sep 03, 2019 15:27:24.18 NEW SESSION
+Sep 03, 2019 15:27:24.18 [3832:6904:0903/152724.181:ERROR:browser_process_sub_thread.cc(203)] Waited 196 ms for network service
+Sep 03, 2019 15:56:13.98 [9420:4412:0903/155613.986:ERROR:browser_process_sub_thread.cc(203)] Waited 46 ms for network service
+Sep 03, 2019 15:56:28.37 [372:10704:0903/155628.371:ERROR:browser_process_sub_thread.cc(203)] Waited 323 ms for network service
+
+Sep 05, 2019 14:40:31.61 NEW SESSION
+Sep 05, 2019 14:40:31.61 [1508:1504:0905/144031.600:ERROR:browser_process_sub_thread.cc(203)] Waited 106 ms for network service

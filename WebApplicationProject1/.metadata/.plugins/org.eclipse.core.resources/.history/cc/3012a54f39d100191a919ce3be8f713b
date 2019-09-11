@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h2>PRODUCT Table</h2>
+
+<table WIDTH='50%' BORDER='1PX'>
+  <tr>
+    <th>Product Name</th>
+    
+    <th>Product Price</th>
+  </tr>
+  <tr>
+    <td>BOOK</td>
+   
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>COPY</td>
+   
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>PEN</td>
+  
+    <td>20</td>
+  </tr>
+  
+  <tr>
+    <td>MARKERS</td>
+   
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>COLORS</td>
+   
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>BOARD</td>
+  
+    <td>150</td>
+  </tr>
+</table>
+
+PLEASE, 
+ENTER THE PRODUCT WHICH YOU WANT TO PURCHASE...
+<form action="CheckAge" method="post">
+Product Name:<input type="text" name="name" >
+Product Quantity:<input type="text" name="quantity" >
+Product Price:<input type="text" name="price" > 
+<INPUT TYPE="SUBMIT" NAME="SUBMIT" VALUE="SUBMIT">
+
+
+</form>
+</body>
+</html>
